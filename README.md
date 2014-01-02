@@ -1,2 +1,0 @@
-Android-Weather-Search-App
-==========================
